@@ -2,13 +2,13 @@ import os
 import sys
 
 
-## подсеть на какую меняется IP
+## network_to = подсеть на какую меняется IP
 
 network_to = "172.16.77."
 
 
 
-## подсеть с какой меняется IP 
+## network_into = подсеть с какой меняется IP 
 
 
 network_into = "192.168.1."
